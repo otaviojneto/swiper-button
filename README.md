@@ -1,1 +1,1 @@
-# swipe-with-button
+# swiper-with-button

@@ -1,2 +1,1 @@
-# swiper-button
-Created with CodeSandbox
+# swipe-with-button
